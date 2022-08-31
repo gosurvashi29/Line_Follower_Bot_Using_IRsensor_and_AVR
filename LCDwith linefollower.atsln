@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Atmel Studio Solution File, Format Version 11.00
+Project("{E66E83B9-2572-4076-B26E-6BE79FF3018A}") = "LCDwith linefollower", "LCDwith linefollower\LCDwith linefollower.cppproj", "{835CF2E7-8090-4812-BB26-2B41E702B0B4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{835CF2E7-8090-4812-BB26-2B41E702B0B4}.Debug|AVR.ActiveCfg = Debug|AVR
+		{835CF2E7-8090-4812-BB26-2B41E702B0B4}.Debug|AVR.Build.0 = Debug|AVR
+		{835CF2E7-8090-4812-BB26-2B41E702B0B4}.Release|AVR.ActiveCfg = Release|AVR
+		{835CF2E7-8090-4812-BB26-2B41E702B0B4}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
